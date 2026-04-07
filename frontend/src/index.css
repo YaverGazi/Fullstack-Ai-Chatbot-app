@@ -1,0 +1,13 @@
+.main{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100px;
+gap: 10px;
+border-radius: 5px;
+}
+.chat{
+   color: gray;
+    
+}
